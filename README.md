@@ -5,11 +5,11 @@ Here I will upload small projects that I consider serious related to the Univers
 
 ---
 
-Things that I've worked with: Python 3 (And Tkinter), SQLite3, React Native (Some Javascript) and PostgreSQL.
+Things that I've worked with: Python 3 (And Tkinter), SQLite3, React Native (Some Javascript), PostgreSQL and MySQL.
 
-Things that I'm learning: Django framework and GIT.
+Things that I'm learning: Django framework, GIT, Java and JavaScript.
 
-Other things that I touched in the University: C++, C# and PHP.
+Other things that I touched in the University: C, C++, C# and PHP.
 
 ---
 If you want to contact me, you can use [olmos.is.me](https://www.facebook.com/olmos.is.me)
