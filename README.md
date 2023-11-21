@@ -1,7 +1,7 @@
 # Hi there! ✌️ 
 This is Diego Olmos **(Olmos for friends)** and I'm a software engineering student here in Jalisco, Mexico.
 
-Here I will upload small projects that I consider serious related to the University (Currently in 6th semester) or personal projects.
+Here I will upload small projects that I consider serious related to the University (Currently in 7th semester) or personal projects.
 
 ---
 
