@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Enthusiastic backend developer with experience in Python technologies such as <br>FastAPI, Django, and the Django Rest Framework. With skills in modern libraries such <br>as React and PySide6.</p>
+<p align="left">Enthusiastic backend developer with experience in Python technologies such as FastAPI, Django, and the Django Rest Framework. With skills in modern libraries such as React and PySide6.</p>
 
 ###
 
